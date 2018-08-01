@@ -17,6 +17,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+/**
+ * Test class
+ */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest (webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class HelloControllerTest {
